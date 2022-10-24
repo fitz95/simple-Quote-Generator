@@ -1,0 +1,17 @@
+.conatiner-fluid{
+    height: 100vh;
+    
+}
+body{
+    height: 100vh;
+}
+
+.card:hover{
+    box-shadow: 8px 8px 8px rgba(255, 0, 221, 0.823);
+    transform:scale(1.2);
+}
+
+body{
+    background-image: linear-gradient(#eecda3, #ef629f); 
+ 
+}
